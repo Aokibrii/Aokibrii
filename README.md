@@ -8,8 +8,8 @@ I'm **Brylle** (Aokibrii), a passionate developer who's always learning and maki
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,mysql,php" />
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vite,git" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,php,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,vite,git,mysql" />
 </p>
 
 
