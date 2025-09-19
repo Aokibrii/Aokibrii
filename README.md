@@ -5,16 +5,20 @@ I'm **Brylle** (Aokibrii), a passionate developer who's always learning and maki
 -  I'm always learning new technologies and improving my skills
 
 
-## 🛠️ Tech Stack
+<p><img src="https://skillicons.dev/icons?i=react"/>Tech Stack</p> 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,php,python" />
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,vite,git,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,php,python,discordjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,vite,git,mysql,npm" />
 </p>
 
+## Code Editor
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=vscode" />
+  Visual Studio Code
+</p>
 
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aokibrii&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Brylle's GitHub stats" />
@@ -48,6 +52,9 @@ I'm **Brylle** (Aokibrii), a passionate developer who's always learning and maki
   </a>
   <a href="https://github.com/Aokibrii">
     <img src="https://img.shields.io/badge/GitHub-Aokibrii-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://discord.gg/YjJFt7dUWJ">
+     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
 
