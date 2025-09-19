@@ -13,12 +13,12 @@
 
 ###  **Frontend Technologies**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,vite" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js" />
 </p>
 
 ###  **Backend & Database**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,php,python,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,python,express,mongodb,mysql,vite" />
 </p>
 
 ### **Tools & Others**
