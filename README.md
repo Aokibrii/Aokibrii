@@ -54,11 +54,11 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Aokibrii-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aokibrii)
 
-[![Discord](https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YjJFt7dUWJ)
+[![Discord](https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&logo=discord&logoColor=blue)](https://discord.gg/YjJFt7dUWJ)
 
-[![Instagram](https://img.shields.io/badge/Instagram-Aokinyccc-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aokinyccc)
+[![Instagram](https://img.shields.io/badge/Instagram-Aokinyccc-E4405F?style=for-the-badge&logo=instagram&logoColor=red)](https://instagram.com/aokinyccc)
 
-[![Facebook](https://img.shields.io/badge/Facebook-Bryan%20Palay-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/bryan.palay)
+[![Facebook](https://img.shields.io/badge/Facebook-Bryan%20Palay-1877F2?style=for-the-badge&logo=facebook&logoColor=blue)](https://facebook.com/bryan.palay)
 
 </div>
 
