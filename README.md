@@ -12,7 +12,7 @@ I'm **Brylle** (Aokibrii), a passionate developer who's always learning and maki
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,vite,git,mysql" />
 </p>
 
-## Code Editor
+## Code Editor - Visual Studio Code
 <p align="center">
    <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
@@ -31,17 +31,6 @@ I'm **Brylle** (Aokibrii), a passionate developer who's always learning and maki
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aokibrii&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 🎯 Current Focus
-- Building responsive web applications
-- Learning React and other Language
-- Exploring full-stack development
-
-
-## 🚀 Recent Projects
-- **Learning-Coding** - Journey Learning Programming and Creating Programs!
-- **Captcha** - Secured Login With Math Captcha Verification
-- **Serene-Inn-Guest-House** - A cozy guest house management system
-
 
 ## 🤝 Let's Connect!
 
@@ -54,6 +43,9 @@ I'm **Brylle** (Aokibrii), a passionate developer who's always learning and maki
   </a>
   <a href="https://discord.gg/YjJFt7dUWJ">
      <img src="https://img.shields.io/badge/Discord-Server-blue?style=for-the-badge&logo=discord" />
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Instagram-Aokinyccc-purple?style=for-the-badge&logo=instagram" />
   </a>
 </p>
 
