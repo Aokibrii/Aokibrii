@@ -39,13 +39,16 @@ I'm **Brylle** (Aokibrii), a passionate developer who's always learning and maki
     <img src="https://img.shields.io/badge/Email-bryanpalay119@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/Aokibrii">
-    <img src="https://img.shields.io/badge/GitHub-Aokibrii-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Aokibrii-gray?style=for-the-badge&logo=github" />
   </a>
   <a href="https://discord.gg/YjJFt7dUWJ">
      <img src="https://img.shields.io/badge/Discord-Server-blue?style=for-the-badge&logo=discord" />
   </a>
   <a>
     <img src="https://img.shields.io/badge/Instagram-Aokinyccc-purple?style=for-the-badge&logo=instagram" />
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Facebook-Bryan Palay-skyblue?style=for-the-badge&logo=facebook" />
   </a>
 </p>
 
