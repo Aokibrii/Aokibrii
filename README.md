@@ -2,7 +2,7 @@
 
 #  Hi there, I'm **Brylle** (Aokibrii) 
 
-### 🚀 A passionate developer who's always learning and making things better!
+###  A passionate developer who's always learning and making things better!
 
 
 
@@ -50,7 +50,7 @@
 
 ### 🌐 **Social Media & Contact**
 
-[![Gmail](https://img.shields.io/badge/Gmail-bryanpalay119@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanpalay119@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-Aokibrii-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aokibrii) [![Discord](https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YjJFt7dUWJ) [![Instagram](https://img.shields.io/badge/Instagram-Aokinyccc-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aokinyccc) [![Facebook](https://img.shields.io/badge/Facebook-Bryan%20Palay-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/bryan.palay)
+[![Gmail](https://img.shields.io/badge/Gmail-bryanpalay119@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanpalay119@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-Aokibrii-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aokibrii) [![Discord](https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YjJFt7dUWJ) [![Instagram](https://img.shields.io/badge/Instagram-Aokinyccc-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aokinyccc) [![Facebook](https://img.shields.io/badge/Facebook-Bryan%20Palay-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bryan.palay.35/)
 
 </div>
 
