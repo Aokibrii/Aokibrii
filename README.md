@@ -5,17 +5,16 @@ I'm **Brylle** (Aokibrii), a passionate developer who's always learning and maki
 -  I'm always learning new technologies and improving my skills
 
 
-<p><img src="https://skillicons.dev/icons?i=react"/>Tech Stack</p> 
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,php,python,discordjs" />
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,vite,git,mysql,npm" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,php,python,discordjs&perline=7" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,vite,git,mysql,npm&perline=6" />
 </p>
 
 ## Code Editor
 <p align="center">
    <img src="https://skillicons.dev/icons?i=vscode" />
-  Visual Studio Code
 </p>
 
 ## GitHub Stats
