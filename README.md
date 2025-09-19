@@ -1,33 +1,6 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm **Brylle** (Aokibrii) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### 🚀 A passionate developer who's always learning and making things better!
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=07119C&center=true&vCenter=true&width=600&lines=Learning+Coding!%F0%9F%8E%89)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
-
-- 🔭 **Currently working on** various web development projects
-- 🌱 **Always learning** new technologies and improving my skills  
-- 💬 **Ask me about** web development, React, or anything tech-related!
-- ⚡ **Fun fact:** I believe every bug is just a feature in disguise! 🐛✨
-- 🎯 **Goal:** To build amazing applications that make a difference
-- 🎮 **Hobbies:** Gaming, coding, and exploring new tech trends
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Aokibrii&color=00D4FF&style=for-the-badge&label=Profile+Views)
-
-![GitHub followers](https://img.shields.io/github/followers/Aokibrii?color=00D4FF&style=for-the-badge&label=Followers)
-
-![GitHub stars](https://img.shields.io/github/stars/Aokibrii?color=00D4FF&style=for-the-badge&label=Stars)
-
-</div>
 
 ---
 
