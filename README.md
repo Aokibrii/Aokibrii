@@ -2,36 +2,17 @@
 I'm **Brylle** (Aokibrii), a passionate developer who's always learning and making things better! 
 
 ## About Me
-- 🔭 I'm currently working on various web development projects
-- 🌱 I'm always learning new technologies and improving my skills
-- 💬 Ask me about web development, React, or anything tech-related!
-- ⚡ Fun fact: I believe every bug is just a feature in disguise! 
-- 🎯 Goal: To build amazing applications that make a difference
+-  I'm always learning new technologies and improving my skills
+
 
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,mysql,php" />
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vite,git" />
 </p>
 
-### Frontend
-- **HTML5** - Building the foundation
-- **CSS3** - Making it beautiful
-- **JavaScript** - Adding the magic ✨
-- **React** - Building dynamic UIs
-- **Tailwind CSS** - Styling with utility classes
-- **Vite** - Fast development experience
 
-### Backend
-- **Node.js** - Server-side JavaScript
-- **PHP** - Dynamic web development
-- **MongoDB** - NoSQL database
-- **MySQL** - Relational database
-
-### Tools & Others
-- **Git** - Version control mastery
-- **GitHub** - Code collaboration
 
 ## 📊 GitHub Stats
 
@@ -49,28 +30,15 @@ I'm **Brylle** (Aokibrii), a passionate developer who's always learning and maki
 
 ## 🎯 Current Focus
 - Building responsive web applications
-- Learning advanced React patterns
+- Learning React and other Language
 - Exploring full-stack development
-- Contributing to open source projects
+
 
 ## 🚀 Recent Projects
 - **Learning-Coding** - Journey Learning Programming and Creating Programs!
 - **Captcha** - Secured Login With Math Captcha Verification
 - **Serene-Inn-Guest-House** - A cozy guest house management system
 
-## 📈 2024 Goals
-- [ ] Master advanced React concepts
-- [ ] Build 5+ full-stack applications
-- [ ] Contribute to 10+ open source projects
-- [ ] Learn TypeScript deeply
-- [ ] Get better at system design
-
-## 💡 Fun Stats
-- ☕ **Coffee consumed while coding**: ∞
-- 🐛 **Bugs fixed today**: 42
-- 💻 **Lines of code written**: Too many to count!
-- 🎮 **Debugging sessions**: Countless
-- 🚀 **Projects completed**: Always working on the next one!
 
 ## 🤝 Let's Connect!
 
