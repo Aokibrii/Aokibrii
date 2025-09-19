@@ -67,21 +67,19 @@
 
 
 
+---
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aokibrii&color=00D4FF&style=for-the-badge&label=Profile+Views)
 
-![GitHub followers](https://img.shields.io/github/followers/Aokibrii?color=00D4FF&style=for-the-badge&label=Followers)
 
-![GitHub stars](https://img.shields.io/github/stars/Aokibrii?color=00D4FF&style=for-the-badge&label=Stars)
 
 </div>
 
 
-
 <div align="center">
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Still Learning and Making it Better!** 💪
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Still Learning and Making it Better!** 
 
 </div>
