@@ -50,15 +50,7 @@
 
 ### 🌐 **Social Media & Contact**
 
-[![Gmail](https://img.shields.io/badge/Gmail-bryanpalay119@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanpalay119@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Aokibrii-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aokibrii)
-
-[![Discord](https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&logo=discord&logoColor=blue)](https://discord.gg/YjJFt7dUWJ)
-
-[![Instagram](https://img.shields.io/badge/Instagram-Aokinyccc-E4405F?style=for-the-badge&logo=instagram&logoColor=red)](https://instagram.com/aokinyccc)
-
-[![Facebook](https://img.shields.io/badge/Facebook-Bryan%20Palay-1877F2?style=for-the-badge&logo=facebook&logoColor=blue)](https://facebook.com/bryan.palay)
+[![Gmail](https://img.shields.io/badge/Gmail-bryanpalay119@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanpalay119@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-Aokibrii-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aokibrii) [![Discord](https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YjJFt7dUWJ) [![Instagram](https://img.shields.io/badge/Instagram-Aokinyccc-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aokinyccc) [![Facebook](https://img.shields.io/badge/Facebook-Bryan%20Palay-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/bryan.palay)
 
 </div>
 
@@ -80,6 +72,6 @@
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Still Learning and Making it Better!** 
+###  **Still Learning and Making it Better!** 
 
 </div>
