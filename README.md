@@ -9,7 +9,7 @@ I'm **Brylle** (Aokibrii), a passionate developer who's always learning and maki
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,js,php,python,discordjs" />
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,vite,git,mysql,npm&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,vite,git,mysql,npm" />
 </p>
 
 ## Code Editor
@@ -53,7 +53,7 @@ I'm **Brylle** (Aokibrii), a passionate developer who's always learning and maki
     <img src="https://img.shields.io/badge/GitHub-Aokibrii-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://discord.gg/YjJFt7dUWJ">
-     <img src="https://img.shields.io/badge/GitHub-Aokibrii-black?style=for-the-badge&logo=discord" />
+     <img src="https://img.shields.io/badge/Discord-Aokibrii-navyblue?style=for-the-badge&logo=discord" />
   </a>
 </p>
 
