@@ -4,68 +4,32 @@
 
 ### 🚀 A passionate developer who's always learning and making things better!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Enthusiast;Always+Learning;Making+it+Better!%F0%9F%8E%89)](https://git.io/typing-svg)
 
-</div>
 
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
-
-- 🔭 **Currently working on** various web development projects
-- 🌱 **Always learning** new technologies and improving my skills  
-- 💬 **Ask me about** web development, React, or anything tech-related!
-- ⚡ **Fun fact:** I believe every bug is just a feature in disguise! 🐛✨
-- 🎯 **Goal:** To build amazing applications that make a difference
-- 🎮 **Hobbies:** Gaming, coding, and exploring new tech trends
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Aokibrii&color=00D4FF&style=for-the-badge&label=Profile+Views)
-
-![GitHub followers](https://img.shields.io/github/followers/Aokibrii?color=00D4FF&style=for-the-badge&label=Followers)
-
-![GitHub stars](https://img.shields.io/github/stars/Aokibrii?color=00D4FF&style=for-the-badge&label=Stars)
-
-</div>
-
----
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmeb8ymcjz5z8m3w1oqtpldsx8yx&rid=giphy.gif" width="30"> Tech Stack
 
 <div align="center">
 
-### 🎨 **Frontend Technologies**
+###  **Frontend Technologies**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,js,vite" />
 </p>
 
-### ⚙️ **Backend & Database**
+###  **Backend & Database**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,php,python,express,mongodb,mysql" />
 </p>
 
-### 🛠️ **Tools & Others**
+### **Tools & Others**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,discordjs,vscode" />
 </p>
 
 </div>
 
----
 
-## <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="30"> Code Editor
 
-<div align="center">
-
-### Visual Studio Code
-<p align="center">
-   <img src="https://skillicons.dev/icons?i=vscode" />
-</p>
-
-</div>
-
----
 
 ## <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="30"> GitHub Stats
 
@@ -98,17 +62,11 @@
 
 </div>
 
----
 
-<div align="center">
 
-### 💬 **Let's chat!**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Always+open+to+collaboration!;Let's+build+something+amazing!;Feel+free+to+reach+out!%F0%9F%98%8A)](https://git.io/typing-svg)
 
-</div>
 
----
 
 <div align="center">
 
@@ -120,12 +78,10 @@
 
 </div>
 
----
+
 
 <div align="center">
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Still Learning and Making it Better!** 💪
-
-![Snake animation](https://github.com/Aokibrii/Aokibrii/blob/output/github-contribution-grid-snake.svg)
 
 </div>
