@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hi there, I'm **Brylle** (Aokibrii) 
+#   I'm **Bryan Palay** 
 
 ###  A passionate developer who's always learning and making things better!
 
