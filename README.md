@@ -18,12 +18,12 @@
 
 ###  **Backend & Database**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,php,python,express,mongodb,mysql,vite" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,python,express,mongodb,mysql,vite,nextjs" />
 </p>
 
-### **Tools & Others**
+### **Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,discordjs,vscode" />
+  <img src="https://skillicons.dev/icons?i=vscode,shadcn" />
 </p>
 
 </div>
