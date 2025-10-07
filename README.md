@@ -13,7 +13,7 @@
 
 ###  **Frontend Technologies**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" />
 </p>
 
 ###  **Backend & Database**
@@ -23,7 +23,7 @@
 
 ### **Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,shadcn" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 </div>
